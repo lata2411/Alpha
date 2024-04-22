@@ -435,13 +435,22 @@ font-size:25px;
     #icon{
         width: 100%;
     }
-    #icon > .box{
-        
-        display: block;
-        width: 100%;
-        border: none;
-        border-bottom: 2px solid gray;
-    }
+    #icon>#outer-box{
+    width: 98%;
+    /* background-color: blueviolet; */
+   padding: 10px 10px 10px 10px;
+}
+
+
+#outer-box>.box {
+    /* background-color: aqua; */
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 2rem;
+}
     #cart{
         /* background-color: red; */
         width: 100%;
