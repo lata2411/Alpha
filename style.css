@@ -435,7 +435,7 @@ font-size:25px;
     #icon{
         width: 100%;
     }
-    #icon > div {
+    #icon > .box{
         
         display: block;
         width: 100%;
