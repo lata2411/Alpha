@@ -436,20 +436,20 @@ font-size:25px;
         width: 100%;
     }
     #icon>#outer-box{
-    width: 100%;
+    width: 98%;
     /* background-color: blueviolet; */
-   padding: 10px 10px 10px 10px;
+/*    padding: 10px 10px 10px 10px; */
 }
 
 
 #outer-box>.box {
     /* background-color: aqua; */
-    width: 98%;
+    width: 80%;
 /*     margin-left: 50px;
     margin-top: 10px; */
     display: inline-block;
-    text-align: center;
-    padding-top: 2rem;
+/*     text-align: center;
+    padding-top: 2rem; */
 }
     #cart{
         /* background-color: red; */
