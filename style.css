@@ -444,7 +444,7 @@ font-size:25px;
 
 #outer-box>.box {
     /* background-color: aqua; */
-    width: 100%;
+    width: 98%;
 /*     margin-left: 50px;
     margin-top: 10px; */
     display: inline-block;
@@ -453,7 +453,7 @@ font-size:25px;
 }
     #cart{
         /* background-color: red; */
-        width: 100%;
+        width: 80%;
         display: inline-block;
         
         
